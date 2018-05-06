@@ -1,0 +1,14 @@
+1.系统说明：
+这是一个web系统，需要部署在一个web容器中，这里用的是tomcat
+
+2.系统部署环境相关配置要求：
+数据库：
+MySql5.5+ 
+Web容器：tomcat7.0+ 
+
+Java运行环境：
+JDK1.7+ 
+
+
+操作系统：Windows7+
+浏览器：Chrome browser
